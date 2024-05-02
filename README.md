@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blodyiybl
+ Hi, I’m @blodyiybl
 
 
 
